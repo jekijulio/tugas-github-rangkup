@@ -1,0 +1,16 @@
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.csproj.AssemblyReference.cache
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.AssemblyInfoInputs.cache
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.AssemblyInfo.cs
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.csproj.CoreCompileInputs.cache
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\UTS TIKET BIOSKOP.exe
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\UTS TIKET BIOSKOP.deps.json
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\UTS TIKET BIOSKOP.runtimeconfig.json
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\UTS TIKET BIOSKOP.runtimeconfig.dev.json
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\UTS TIKET BIOSKOP.dll
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\ref\UTS TIKET BIOSKOP.dll
+D:\UTS TIKET BIOSKOP\bin\Debug\net5.0\UTS TIKET BIOSKOP.pdb
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.dll
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\ref\UTS TIKET BIOSKOP.dll
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.pdb
+D:\UTS TIKET BIOSKOP\obj\Debug\net5.0\UTS TIKET BIOSKOP.genruntimeconfig.cache

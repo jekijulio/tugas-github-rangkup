@@ -1,0 +1,16 @@
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.csproj.AssemblyReference.cache
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.AssemblyInfoInputs.cache
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.AssemblyInfo.cs
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.csproj.CoreCompileInputs.cache
+D:\UTS ENKRIPSI\bin\Debug\net5.0\UTS ENKRIPSI.exe
+D:\UTS ENKRIPSI\bin\Debug\net5.0\UTS ENKRIPSI.deps.json
+D:\UTS ENKRIPSI\bin\Debug\net5.0\UTS ENKRIPSI.runtimeconfig.json
+D:\UTS ENKRIPSI\bin\Debug\net5.0\UTS ENKRIPSI.runtimeconfig.dev.json
+D:\UTS ENKRIPSI\bin\Debug\net5.0\UTS ENKRIPSI.dll
+D:\UTS ENKRIPSI\bin\Debug\net5.0\ref\UTS ENKRIPSI.dll
+D:\UTS ENKRIPSI\bin\Debug\net5.0\UTS ENKRIPSI.pdb
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.dll
+D:\UTS ENKRIPSI\obj\Debug\net5.0\ref\UTS ENKRIPSI.dll
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.pdb
+D:\UTS ENKRIPSI\obj\Debug\net5.0\UTS ENKRIPSI.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UTS KONVERT MATA UANG/1.0.0": {
+        "runtime": {
+          "UTS KONVERT MATA UANG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTS KONVERT MATA UANG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

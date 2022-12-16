@@ -1,0 +1,16 @@
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.csproj.AssemblyReference.cache
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.AssemblyInfoInputs.cache
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.AssemblyInfo.cs
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.csproj.CoreCompileInputs.cache
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\UTS GAME HANGMAN.exe
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\UTS GAME HANGMAN.deps.json
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\UTS GAME HANGMAN.runtimeconfig.json
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\UTS GAME HANGMAN.runtimeconfig.dev.json
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\UTS GAME HANGMAN.dll
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\ref\UTS GAME HANGMAN.dll
+D:\UTS GAME HANGMAN\bin\Debug\net5.0\UTS GAME HANGMAN.pdb
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.dll
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\ref\UTS GAME HANGMAN.dll
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.pdb
+D:\UTS GAME HANGMAN\obj\Debug\net5.0\UTS GAME HANGMAN.genruntimeconfig.cache

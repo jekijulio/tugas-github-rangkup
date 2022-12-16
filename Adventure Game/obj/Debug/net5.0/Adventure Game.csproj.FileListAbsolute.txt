@@ -1,0 +1,16 @@
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.csproj.AssemblyReference.cache
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.AssemblyInfoInputs.cache
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.AssemblyInfo.cs
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.csproj.CoreCompileInputs.cache
+D:\Adventure Game\bin\Debug\net5.0\Adventure Game.exe
+D:\Adventure Game\bin\Debug\net5.0\Adventure Game.deps.json
+D:\Adventure Game\bin\Debug\net5.0\Adventure Game.runtimeconfig.json
+D:\Adventure Game\bin\Debug\net5.0\Adventure Game.runtimeconfig.dev.json
+D:\Adventure Game\bin\Debug\net5.0\Adventure Game.dll
+D:\Adventure Game\bin\Debug\net5.0\ref\Adventure Game.dll
+D:\Adventure Game\bin\Debug\net5.0\Adventure Game.pdb
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.dll
+D:\Adventure Game\obj\Debug\net5.0\ref\Adventure Game.dll
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.pdb
+D:\Adventure Game\obj\Debug\net5.0\Adventure Game.genruntimeconfig.cache

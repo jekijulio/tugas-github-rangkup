@@ -1,0 +1,16 @@
+D:\daspro 4\bin\Debug\net5.0\daspro 4.exe
+D:\daspro 4\bin\Debug\net5.0\daspro 4.deps.json
+D:\daspro 4\bin\Debug\net5.0\daspro 4.runtimeconfig.json
+D:\daspro 4\bin\Debug\net5.0\daspro 4.runtimeconfig.dev.json
+D:\daspro 4\bin\Debug\net5.0\daspro 4.dll
+D:\daspro 4\bin\Debug\net5.0\ref\daspro 4.dll
+D:\daspro 4\bin\Debug\net5.0\daspro 4.pdb
+D:\daspro 4\obj\Debug\net5.0\daspro 4.csproj.AssemblyReference.cache
+D:\daspro 4\obj\Debug\net5.0\daspro 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\daspro 4\obj\Debug\net5.0\daspro 4.AssemblyInfoInputs.cache
+D:\daspro 4\obj\Debug\net5.0\daspro 4.AssemblyInfo.cs
+D:\daspro 4\obj\Debug\net5.0\daspro 4.csproj.CoreCompileInputs.cache
+D:\daspro 4\obj\Debug\net5.0\daspro 4.dll
+D:\daspro 4\obj\Debug\net5.0\ref\daspro 4.dll
+D:\daspro 4\obj\Debug\net5.0\daspro 4.pdb
+D:\daspro 4\obj\Debug\net5.0\daspro 4.genruntimeconfig.cache

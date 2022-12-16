@@ -1,0 +1,32 @@
+D:\uts\obj\Debug\net5.0\uts.csproj.AssemblyReference.cache
+D:\uts\obj\Debug\net5.0\uts.GeneratedMSBuildEditorConfig.editorconfig
+D:\uts\obj\Debug\net5.0\uts.AssemblyInfoInputs.cache
+D:\uts\obj\Debug\net5.0\uts.AssemblyInfo.cs
+D:\uts\obj\Debug\net5.0\uts.csproj.CoreCompileInputs.cache
+D:\uts\bin\Debug\net5.0\uts.exe
+D:\uts\bin\Debug\net5.0\uts.deps.json
+D:\uts\bin\Debug\net5.0\uts.runtimeconfig.json
+D:\uts\bin\Debug\net5.0\uts.runtimeconfig.dev.json
+D:\uts\bin\Debug\net5.0\uts.dll
+D:\uts\bin\Debug\net5.0\ref\uts.dll
+D:\uts\bin\Debug\net5.0\uts.pdb
+D:\uts\obj\Debug\net5.0\uts.dll
+D:\uts\obj\Debug\net5.0\ref\uts.dll
+D:\uts\obj\Debug\net5.0\uts.pdb
+D:\uts\obj\Debug\net5.0\uts.genruntimeconfig.cache
+D:\UTS NAME TAG\bin\Debug\net5.0\uts.exe
+D:\UTS NAME TAG\bin\Debug\net5.0\uts.deps.json
+D:\UTS NAME TAG\bin\Debug\net5.0\uts.runtimeconfig.json
+D:\UTS NAME TAG\bin\Debug\net5.0\uts.runtimeconfig.dev.json
+D:\UTS NAME TAG\bin\Debug\net5.0\uts.dll
+D:\UTS NAME TAG\bin\Debug\net5.0\ref\uts.dll
+D:\UTS NAME TAG\bin\Debug\net5.0\uts.pdb
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.csproj.AssemblyReference.cache
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.AssemblyInfoInputs.cache
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.AssemblyInfo.cs
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.csproj.CoreCompileInputs.cache
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.dll
+D:\UTS NAME TAG\obj\Debug\net5.0\ref\uts.dll
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.pdb
+D:\UTS NAME TAG\obj\Debug\net5.0\uts.genruntimeconfig.cache

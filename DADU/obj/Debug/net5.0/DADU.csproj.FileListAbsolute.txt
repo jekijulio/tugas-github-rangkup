@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\DADU.exe
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\DADU.deps.json
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\DADU.runtimeconfig.json
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\DADU.runtimeconfig.dev.json
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\DADU.dll
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\ref\DADU.dll
+C:\Users\User\Desktop\DADU\bin\Debug\net5.0\DADU.pdb
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.AssemblyInfo.cs
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.dll
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\ref\DADU.dll
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.pdb
+C:\Users\User\Desktop\DADU\obj\Debug\net5.0\DADU.genruntimeconfig.cache

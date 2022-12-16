@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\Array Battle Tank.exe
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\Array Battle Tank.deps.json
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\Array Battle Tank.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\Array Battle Tank.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\Array Battle Tank.dll
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\ref\Array Battle Tank.dll
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\bin\Debug\net5.0\Array Battle Tank.pdb
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.dll
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\ref\Array Battle Tank.dll
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.pdb
+C:\Users\User\OneDrive\Desktop\Array Battle Tank\obj\Debug\net5.0\Array Battle Tank.genruntimeconfig.cache
